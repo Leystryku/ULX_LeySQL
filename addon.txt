@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"ULX LeySQL"
+	"version"			"1"
+	"up_date"			""
+	"author_name"			"Leystryku"
+	"author_email"			"Leystryku@gmail.com"
+	"author_url"			""
+	"info"				"A  ULX LeySQL system by Leystryku"
+	"override"			"0"
+}
