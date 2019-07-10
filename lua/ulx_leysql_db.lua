@@ -18,10 +18,10 @@ function ulx_leysql.GetDBData()
 		return
 	else
 		doneonce = true
-		ulx_leysql.sqldb.Hostname = "138.68.156.164"-- the IP
-		ulx_leysql.sqldb.Database = "gmod_serversql" -- the Database name
-		ulx_leysql.sqldb.Username = "root" -- the Username
-		ulx_leysql.sqldb.Password = "bigVaginas30$" -- the mysql password
+		ulx_leysql.sqldb.Hostname = "127.0.0.1"-- the IP
+		ulx_leysql.sqldb.Database = "test" -- the Database name
+		ulx_leysql.sqldb.Username = "test" -- the Username
+		ulx_leysql.sqldb.Password = "test" -- the mysql password
 		ulx_leysql.sqldb.Port = 3306 -- the mysql port
 	end
 end
